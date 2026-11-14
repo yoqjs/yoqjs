@@ -16,6 +16,8 @@
 
 I'm a **Computer Engineering** student at the **University of Las Palmas de Gran Canaria (ULPGC)** (2022–2027), currently working as a **Software Engineering Intern** at the **Instituto Tecnológico de Canarias (ITC)**.
 
+🇵🇱 I spent a year on **Erasmus exchange in Poland** at **Politechnika Krakowska** (Krakow University of Technology), where I deepened my skills in C++ programming and high-performance computing.
+
 I love building things from scratch — from web apps and APIs to signal processing tools and parallel computing experiments. I'm always looking for new challenges that push me to learn and grow.
 
 ---
@@ -53,6 +55,15 @@ I love building things from scratch — from web apps and APIs to signal process
 | [🦷 **Aura Dental**](https://github.com/yoqjs/aura-dental-demo) | Modern dental clinic website demo | Astro, HTML, CSS |
 | [🎨 **Vanguard Studio**](https://github.com/yoqjs/vanguard-studio-demo) | Creative studio portfolio website demo | Astro, HTML, CSS |
 | [⚡ **Arduino Voltmeter**](https://github.com/yoqjs/arduino-voltmeter) | Digital voltmeter with Arduino | C++, Arduino |
+
+---
+
+## 🌍 Education
+
+| Period | Institution | Program |
+|--------|-----------|---------|
+| 2022 – 2027 | **ULPGC** (Universidad de Las Palmas de Gran Canaria) | B.Sc. Computer Engineering |
+| 2025 – 2026 | **Politechnika Krakowska** 🇵🇱 (Erasmus) | Exchange year — C++, HPC, Kotlin/Android |
 
 ---
 
