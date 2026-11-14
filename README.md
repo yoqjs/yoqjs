@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/🇬🇧_English_B2-success?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/victoria-sanchez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:victoriaestudiosanchez@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 ---
 
 ## 🎓 About Me
@@ -61,7 +66,7 @@ I love building things from scratch — from web apps and APIs to signal process
 ## 🌍 Education
 
 | Period | Institution | Program |
-|--------|-----------|---------|
+|--------|-----------|---------||
 | 2022 – 2027 | **ULPGC** (Universidad de Las Palmas de Gran Canaria) | B.Sc. Computer Engineering |
 | 2025 – 2026 | **Politechnika Krakowska** 🇵🇱 (Erasmus) | Exchange year — C++, HPC, Kotlin/Android |
 
@@ -83,6 +88,12 @@ I love building things from scratch — from web apps and APIs to signal process
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/victoria-sanchez">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:victoriaestudiosanchez@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/yoqjs">
     <img src="https://img.shields.io/badge/Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
